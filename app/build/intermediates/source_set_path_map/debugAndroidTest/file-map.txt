@@ -1,0 +1,4 @@
+com.example.lanterna.test.app-androidTest-0 /Users/edsonbatista/Downloads/lanterna/lanterna/lanterna/app/build/generated/res/resValues/androidTest/debug
+com.example.lanterna.test.app-mergeDebugAndroidTestResources-1 /Users/edsonbatista/Downloads/lanterna/lanterna/lanterna/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.lanterna.test.app-mergeDebugAndroidTestResources-2 /Users/edsonbatista/Downloads/lanterna/lanterna/lanterna/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.lanterna.test.app-merged_res-3 /Users/edsonbatista/Downloads/lanterna/lanterna/lanterna/app/build/intermediates/merged_res/debugAndroidTest
